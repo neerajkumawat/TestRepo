@@ -2,4 +2,3 @@ Test Commit 1
 Test remote msg
 test remote commit2
 as
-test revert commit

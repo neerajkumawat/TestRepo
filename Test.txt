@@ -5,4 +5,4 @@ as
 test local changes
 test remote changes
 
-test SourceTree changes
+test SourceTree changes new

@@ -3,3 +3,4 @@ Test remote msg
 test remote commit2
 as
 test local changes
+test remote changes
